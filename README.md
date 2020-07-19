@@ -70,3 +70,17 @@ The aim is to segment the data into groups to know how differently students reve
 **The average attendance code for the students was also dismal, almost at code 2.
 
     From Q1 - Q28, the average rating hovers between 2.7 - 3.3 out 5, which means that the overall performance of the university was strictly above  average.
+    
+ **7) When we fit the dataset with the cluster labels in a Supervised Setting:
+ 
+Without PCA
+Training Accuracy
+1.0
+Testing Accuracy
+0.981672394043528
+
+With PCA
+Training Accuracy
+1.0
+Testing Accuracy
+1.0
