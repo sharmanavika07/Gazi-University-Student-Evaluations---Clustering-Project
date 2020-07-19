@@ -73,14 +73,10 @@ The aim is to segment the data into groups to know how differently students reve
     
  **7) When we fit the dataset with the cluster labels in a Supervised Setting:
  
-Without PCA
-Training Accuracy
-1.0
-Testing Accuracy
-0.981672394043528
+-  **Without PCA**
+- Training Accuracy - 1.0
+- Testing Accuracy -  0.981672394043528
 
-With PCA
-Training Accuracy
-1.0
-Testing Accuracy
-1.0
+- **With PCA**
+- Training Accuracy - 1.0
+- Testing Accuracy - 1.0
